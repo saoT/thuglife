@@ -4,7 +4,7 @@ There's a thug in town !
 
   - Créez un fichier html avec une div id "wrapper"
 
-  - Avec la balise <script>, lier un fichier javascript à votre html.
+  - Avec la balise script, lier un fichier javascript à votre html.
 
   - Avec la méthode document.getElementById(), récupérez cette div "wrapper" dans votre javascript et gardez-la dans une var.
 
